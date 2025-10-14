@@ -1,4 +1,10 @@
-# Windows 7 Service Pack 2
+<p align=center>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/7SP2LongW.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/7SP2Long.png">
+  <img alt="Windows 7 SP2 Logo" src="assets/7SP2Long.png">
+</picture>
+</p>
 
 > [!WARNING]
 > This project is far from finished, meaning that bugs are to be expected. If you encounter any bugs, please report them in the issue tracker or in the Discord server. Thank you for your understanding.

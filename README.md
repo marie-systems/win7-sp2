@@ -7,7 +7,7 @@
 </p>
 
 > [!WARNING]
-> This project is far from finished, meaning that bugs are to be expected. If you encounter any bugs, please report them in the issue tracker ~~or in the Discord server.~~ Thank you for your understanding.
+> This project is far from finished, meaning that bugs are to be expected. If you encounter any bugs, please report them in the issue tracker ~~or in the Discord server~~. Thank you for your understanding.
 
 Windows 7 Service Pack 2 is a package consisting of updates, tweaks, backported apps and overall enhancements with the goal of providing an effortless way to have a fully updated Windows 7 ISO and enhancing usability on semi-modern machines.
 

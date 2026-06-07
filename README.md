@@ -16,14 +16,14 @@ Windows 7 Service Pack 2 is a package consisting of updates, tweaks, backported 
 - [x] - All updates until 2026, with the addition of Windows Embedded Standard 7 updates
 - [x] - Snipping Tool from Windows 10 version 1507 -> Credits: vxiduu
 - [X] - Paint from Windows 8 build 9425
-- [x] - Registry Editor from Windows 10 build 16212 -> Credits: [Aurorarion](https://github.com/AurorarionWin/)
+- [x] - Registry Editor from Windows 10 build 16212 -> Credits: [Akane Kurokawa](https://github.com/AurorarionWin/)
 - [ ] - In-place service pack installer
 - [x] - Native USB 3.0 and NVMe support -> Credits: Unknown user from MyDigitalLife forums
 - [x] - TPM 2.0 support
 - [X] - UEFI support in the ISO releases, with EFI GOP support too -> Credits: [Typical/int10h](https://github.com/Typical0), [AveragePC](https://github.com/FaultyFaulty-glitch/)
 - [x] - Inclusion of VxKex -> Credits: vxiduu
 - [x] - Windows 8 PE in the ISO, with a theme that resembles Windows 7 -> Credits: [ImSwordQueen](https://github.com/ImSwordQueen/) (Windows 7 theme for Windows 8.x)
-- [x] - Windows 10 setup engine in the ISO release -> Credits: [Aurorarion](https://github.com/AurorarionWin/) (helping out on the 10 setup engine port)
+- [x] - Windows 10 setup engine in the ISO release -> Credits: [Akane Kurokawa](https://github.com/AurorarionWin/) (helping out on the 10 setup engine port)
 - [x] - Builtin Webp and FLAC codecs
 - [x] - Task Manager from Windows 8 build 7880 -> Credits: [Jevil7452](https://github.com/Jevil7452)
 - [ ] - Upscaled graphics in some places
